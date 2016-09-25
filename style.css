@@ -1,0 +1,46 @@
+#gameContainer{
+  background-image : url(http://p1.pichost.me/i/75/1997867.jpg);
+  background-color: white;
+  background-size: cover;
+  background-position: center; 
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+#dealersHand {
+  height: 50px;
+}
+
+#dealer1 {
+  height: 50px
+}
+
+.cards {
+  height: 100px
+}
+
+.handTitles {
+  font-family: 'Monoton', cursive;
+  font-size: 50px;
+  font-weight: normal
+}
+
+#dealButton {
+  font-size: 30px
+  color: black;
+}
+
+#title {
+    font-family: 'Monoton', cursive;
+    font-size: 100px
+}
+
+#message {
+  font-size: 80px;
+  font-family: 'Lobster', cursive;
+  text-align: right
+
+}
