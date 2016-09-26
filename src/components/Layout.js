@@ -214,7 +214,7 @@
           <thead>
             <tr id="dealersHand">
               <th className="handTitles">Dealers Hand</th>
-              <th id="dealer1"><img className="cards" src="/src/images/back.png" alt=""/></th>
+              <th id="dealer1"><img className="cards" src="./src/images/back.png" alt=""/></th>
               <th id="dealer2"><img className="cards" src={dealersImages[1]} alt=""/></th>
               <th id="dealer3"><img className="cards" src={dealersImages[2]} alt=""/></th>
               <th id="dealer4"><img className="cards" src={dealersImages[3]} alt=""/></th>
